@@ -1,39 +1,39 @@
 {
-  "name": "seo-insights",
-  "version": "0.0.4",
-  "description": "SEO Insights is a Chrome extension to display the most important information of a website at a glance.",
-  "scripts": {
-    "css-stylelint": "stylelint src/**/*.{css,scss}",
-    "js-eslint": "eslint src/**/*.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/SEO-Insights/seo-insights.git"
-  },
-  "keywords": [
-    "chrome-extension",
-    "chrome",
-    "seo",
-    "edge",
-    "seotools",
-    "seo-optimization",
-    "edge-extension",
-    "seo-analysis",
-    "seo-tools",
-    "seo-insights"
-  ],
-  "author": "chrome-extensions@sebastianbrosch.de",
-  "license": "GPL-3.0-only",
-  "bugs": {
-    "url": "https://github.com/SEO-Insights/seo-insights/issues"
-  },
-  "homepage": "https://github.com/SEO-Insights/seo-insights#readme",
-  "devDependencies": {
-    "eslint": "^8.31.0",
-    "eslint-config-airbnb-base": "^15.0.0",
-    "eslint-plugin-import": "^2.26.0",
-    "stylelint": "^14.16.1",
-    "stylelint-config-standard": "^29.0.0",
-    "stylelint-order": "^5.0.0"
-  }
+	"name": "@vettted/seo-insights",
+	"version": "0.0.4",
+	"description": "SEO Insights is a Chrome extension to display the most important information of a website at a glance.",
+	"scripts": {
+		"css-stylelint": "stylelint src/**/*.{css,scss}",
+		"js-eslint": "eslint src/**/*.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/SEO-Insights/seo-insights.git"
+	},
+	"keywords": [
+		"chrome-extension",
+		"chrome",
+		"seo",
+		"edge",
+		"seotools",
+		"seo-optimization",
+		"edge-extension",
+		"seo-analysis",
+		"seo-tools",
+		"seo-insights"
+	],
+	"author": "chrome-extensions@sebastianbrosch.de",
+	"license": "GPL-3.0-only",
+	"bugs": {
+		"url": "https://github.com/SEO-Insights/seo-insights/issues"
+	},
+	"homepage": "https://github.com/SEO-Insights/seo-insights#readme",
+	"devDependencies": {
+		"eslint": "^8.31.0",
+		"eslint-config-airbnb-base": "^15.0.0",
+		"eslint-plugin-import": "^2.26.0",
+		"stylelint": "^14.16.1",
+		"stylelint-config-standard": "^29.0.0",
+		"stylelint-order": "^5.0.0"
+	}
 }
